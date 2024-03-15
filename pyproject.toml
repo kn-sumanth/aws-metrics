@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Sumanth <@sumanth>"]
 readme = "README.md"
-packages = [{include = "aws_metrics", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
